@@ -7,11 +7,11 @@ This implementation is based on [a guide](https://www.pieterbrinkman.com/2021/02
 
 # Shopping List
 
-[ESP32](https://www.banggood.com/Geekcreit-ESP32-WiFi+bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Cores-Pins-Unsoldered-p-1214159.html?cur_warehouse=CN&rmmds=search)
-[PMS5003 Sensor](https://www.banggood.com/PMS5003-PM2_5-Air-Particle-Dust-Sensor-Laser-Digital-Output-Module-High-Precision-Air-Haze-Detection-Smart-Home-Device-p-1553818.html?cur_warehouse=CN&rmmds=search)
-[DHT11](https://www.banggood.com/10pcs-KY-015-DHT11-Temperature-Humidity-Sensor-Module-p-1338053.html?cur_warehouse=CN&rmmds=search)
-[Cheap box to house everything](https://www.banggood.com/100-x-80-x-32mm-DIY-Electronic-Plastic-Housing-Junction-Box-Power-Supply-Box-Instrument-Case-Jig-Box-p-1183119.html?rmmds=myorder&cur_warehouse=CN)
-Micro USB Power Supply
+- [ESP32](https://www.banggood.com/Geekcreit-ESP32-WiFi+bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Cores-Pins-Unsoldered-p-1214159.html?cur_warehouse=CN&rmmds=search)
+- [PMS5003 Sensor](https://www.banggood.com/PMS5003-PM2_5-Air-Particle-Dust-Sensor-Laser-Digital-Output-Module-High-Precision-Air-Haze-Detection-Smart-Home-Device-p-1553818.html?cur_warehouse=CN&rmmds=search)
+- [DHT11](https://www.banggood.com/10pcs-KY-015-DHT11-Temperature-Humidity-Sensor-Module-p-1338053.html?cur_warehouse=CN&rmmds=search)
+- [Cheap box to house everything](https://www.banggood.com/100-x-80-x-32mm-DIY-Electronic-Plastic-Housing-Junction-Box-Power-Supply-Box-Instrument-Case-Jig-Box-p-1183119.html?rmmds=myorder&cur_warehouse=CN)
+- Micro USB Power Supply
 
 # Connections
 
